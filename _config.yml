@@ -1,1 +1,1 @@
-include: [doc/pydoc/_static/, doc/pydoc/_modules]
+include: ["doc/pydoc/_static/", "doc/pydoc/_modules"]
