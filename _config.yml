@@ -1,0 +1,2 @@
+include: doc/pydoc/_static/
+include: doc/pydoc/_modules
